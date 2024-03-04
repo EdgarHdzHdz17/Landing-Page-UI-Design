@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Landing-Page-UI-Design
 Landing-Page-UI-Design with ViteJS and Tailwind
 Responsive:
