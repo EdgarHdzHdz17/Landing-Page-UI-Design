@@ -10,5 +10,4 @@ Screen Lg
 <br>
 Screen Sm
 <p align="center">
-<img src="https://github.com/EdgarHdzHdz17/Landing-Page-UI-Design/assets/47467891/f15876c5-ea07-4d1c-b312-fc5f95bdd95f">
 </p>
