@@ -1,13 +1,12 @@
-<<<<<<< HEAD
 # Landing-Page-UI-Design
 Landing-Page-UI-Design with ViteJS and Tailwind
-=======
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Screen Lg
+<p align="center">
+<img src="https://github.com/EdgarHdzHdz17/Landing-Page-UI-Design/assets/47467891/5254abb2-34e9-4210-9c6a-f9de00dd7c82">
+</p>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> a31ffd2 (create project)
+Screen Sm
+<p align="center">
+<img src="https://github.com/EdgarHdzHdz17/Landing-Page-UI-Design/assets/47467891/f15876c5-ea07-4d1c-b312-fc5f95bdd95f" width="30%">
+</p>
